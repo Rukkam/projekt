@@ -68,7 +68,7 @@ connection = mysql.connector.connect(
    host='localhost',
    database='projektda',
    user='root',
-   password='sqlmy')
+   password='*****')
 
 # kontrola připojení
 cursor = connection.cursor()
